@@ -73,7 +73,7 @@
 ## Linter and formatter
 
 - Prettier
-- ES lint
+- ES Lint
 
 ## SPA and Vue
 
@@ -82,8 +82,6 @@
 ## SSG
 
 ## Test
-
-## PWA
 
 ## Data Logs 
 - google analytics
