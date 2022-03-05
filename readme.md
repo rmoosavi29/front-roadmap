@@ -1,37 +1,13 @@
 # Front-End Development Roadmap
 
-## Internet
+# Essential
 
-- DNS
-- Host
-- HTTP
-- Handshaking
 
 ## HTML
 
 - Basic
 - SEO
 - Form
-
-## Git
-
-- Basic
-- Repo
-
-## JavaScript
-
-### Resources
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent Javascript](https://eloquentjavascript.net/)
-- [javascript.info](https://javascript.info/)
-
-## package managers
-
-- NPM
-- Yarn
-### resource
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
 
 ## CSS
 
@@ -46,16 +22,62 @@
 - Sass
 - PostCss
 
-## modern CSS
-
-- CSS in Js (Styled component and styled JSX)
-- CSS Modules
-
 ## CSS architecture
 
 - BEM
 - OOCSS
 - SMACSS
+
+## JavaScript
+
+### Resources
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
+- [javascript.info](https://javascript.info/)
+
+
+## SPA and Vue
+
+## SSR and Nuxt
+
+## SSG
+
+## Web Performance
+
+[smashing magazine](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+
+# Optional
+## Internet
+
+- DNS
+- Host
+- HTTP
+- Handshaking
+
+
+## Git
+
+- Basic
+- Repo
+
+
+## package managers
+
+- NPM
+- Yarn
+### resource
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
+
+
+
+
+## modern CSS
+
+- CSS in Js (Styled component and styled JSX)
+- CSS Modules
+
 
 ## CSS Frameworks
 
@@ -75,11 +97,7 @@
 - Prettier
 - ES Lint
 
-## SPA and Vue
 
-## SSR and Nuxt
-
-## SSG
 
 ## Test
 
@@ -111,9 +129,7 @@
 [trends](https://www.npmtrends.com/axios-vs-got-vs-ky-vs-superagent
 )
 
-## Web Performance
 
-[smashing magazine](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 
 ## Clean code
 
