@@ -47,9 +47,8 @@
     - [Smashing magazine](https://www.smashingmagazine.com/)
 
 ## JavaScript
-  - Dom
-  - Shadow Dom
-  - Virtual Dom
+- [javascript roadmap](javascript.md)
+
 
   ### Resources
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -59,6 +58,7 @@
 
 
 ## SPA and Vue
+- [Vue roadmap](vue.md)
 
 ## SSR and Nuxt
 
