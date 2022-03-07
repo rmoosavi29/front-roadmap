@@ -51,11 +51,11 @@
   - Shadow Dom
   - Virtual Dom
 
-### Resources
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Eloquent Javascript](https://eloquentjavascript.net/)
-- [javascript.info](https://javascript.info/)
+  ### Resources
+  - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Eloquent Javascript](https://eloquentjavascript.net/)
+  - [javascript.info](https://javascript.info/)
 
 
 ## SPA and Vue
@@ -82,8 +82,8 @@
 
 - NPM
 - Yarn
-### resource
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
+  ### resource
+  - [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
 
 
 ## Build Tools (*optional*)
@@ -126,22 +126,19 @@
 - [ky](https://github.com/sindresorhus/ky)
 - [got](https://github.com/sindresorhus/got)
 - [superagent](https://github.com/visionmedia/superagent)
-
-
-[compare](https://github.com/sindresorhus/got), and
-[trends](https://www.npmtrends.com/axios-vs-got-vs-ky-vs-superagent
-)
+  ### Resources:
+  - [compare](https://github.com/sindresorhus/got)
+  - [trends](https://www.npmtrends.com/axios-vs-got-vs-ky-vs-superagent)
 
 
 
 ## Clean code
   - [Writing Clean Code in JavaScript](https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874)
 ## Web components
-  - Shadow Dom
-  ### resource :
+- Shadow Dom
+  ### Resources:
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   - [WEBCOMPONENTS.ORG](https://www.webcomponents.org/)
-
 
 ## Web Security
 - HTTPS [^1]
@@ -151,11 +148,11 @@
 - AuthN/AuthZ [^5]
 - Secret Key Management [^6]
 - OWASP Security Risks [^7]
+  ### Resources :
+  - [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+  - [Martin Fowler: The Basics of Web Application Security ](https://martinfowler.com/articles/web-security-basics.html)
 
-[more info](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-[Martin Fowler: The Basics of Web Application Security ](https://martinfowler.com/articles/web-security-basics.html)
-
-
+---
 
 ## Resources
 - https://roadmap.sh/frontend
@@ -175,8 +172,6 @@
 - https://javascript.plainenglish.io/a-practical-guide-to-become-a-senior-frontend-developer-553ec50e2933
 - https://www.cleverism.com/job-profiles/senior-frontend-developer/
 - https://betterprogramming.pub/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d 
-
---- 
 
 [^1]: HTTPS (HyperText Transfer Protocol Secure) is an encrypted version of the HTTP protocol. It uses SSL or TLS to encrypt all communication between a client and a server. This secure connection allows clients to safely exchange sensitive data with a server.
 [^2]: Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own from which a browser should permit loading of resources.
