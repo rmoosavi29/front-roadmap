@@ -39,6 +39,7 @@
 
 
 ## SPA and Vue
+- [Vue roadmap](vue.md)
 
 ## SSR and Nuxt
 
