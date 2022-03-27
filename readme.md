@@ -57,10 +57,10 @@
   - [javascript.info](https://javascript.info/)
 
 
-## SPA and Vue
+## SPA(Vue)
 - [Vue roadmap](vue.md)
 
-## SSR and Nuxt
+## SSR(Nuxt)
 
 ## SSG
 
